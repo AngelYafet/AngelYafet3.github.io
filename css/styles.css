@@ -17,7 +17,7 @@ body {
 header{
   top: -50px;
 }
-#head {
+#head{
   background: url(../img/w.webp);
   background-size:cover;
   padding: 30px 0 35px 0;
@@ -56,9 +56,11 @@ nav{
 }
 aside{
   background-color: #1a374dba;
+    color: #6998AB;
 }
 article{
   background-color: #40688294;
+    color: #6998AB;
 }
 .p4 {
   display: block;
